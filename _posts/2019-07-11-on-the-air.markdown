@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "On the Air"
+title:  "On the Air..."
 date:   2019-07-11 21:23:00 -0400
-categories: jekyll update
+categories: blog
 ---
 
 Testing support for code snippets:
